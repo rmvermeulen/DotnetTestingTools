@@ -1,4 +1,8 @@
-namespace TestingTools.Tests;
+using AutoFixture;
+using AutoFixture.AutoMoq;
+using Moq;
+
+namespace TestingTools;
 
 public static class Harness
 {
